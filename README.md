@@ -1,4 +1,4 @@
-![Monkey Banana](https://media.tenor.com/r_Fti9dsJ2sAAAAM/monkey-banana.gif)
+![Monkey Pixel](https://art.pixilart.com/8c472db45dafe95.gif)
 
 # Hello World!, I'm Mikolas👋🏼
 

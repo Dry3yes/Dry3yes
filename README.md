@@ -1,4 +1,3 @@
-<img src="https://art.pixilart.com/8c472db45dafe95.gif" alt="Monkey Pixel" width="150"/>
 
 # Hello World!, I'm Mikolas👋🏼
 

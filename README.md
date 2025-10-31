@@ -16,7 +16,7 @@ I'm currently studying **Computer Science at Bina Nusantara University**, explor
 ---
 
 ### 💬 Let's connect!
-If you’re passionate about tech, design, or just want to share ideas — feel free to reach out or check out my work 👇  
+If you’re passionate about tech, design, or just want to share ideas feel free to reach out or check out my work 👇  
 🌐 [Portfolio](https://www.mikolas.site/)  
 💼 [LinkedIn](https://www.linkedin.com/in/mikolas-p-gultom-85b039310/)  
 📧 **mikolasgultom01@gmail.com**

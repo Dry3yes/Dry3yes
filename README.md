@@ -1,24 +1,24 @@
+# 👨‍💻 About Me
 
-# Hello World!, I'm Mikolas👋🏼
+Hi, I'm **Mikolas Gultom** — a **Software Engineer & UI/UX Designer** who loves turning ideas into real, interactive experiences.  
+I'm currently studying **Computer Science at Bina Nusantara University**, exploring how technology and design can work together to create meaningful digital products.
 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dry3yes&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+✨ I'm passionate about learning new things — from frontend frameworks and backend logic to creating seamless user experiences.  
+🚀 Always curious, I keep experimenting with different stacks and projects to improve both my technical and creative side.  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dry3yes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🎯 What I'm currently up to:
+- 📚 Learning more about **AI integration** and **modern web architecture (React + Laravel)**  
+- 🎨 Enhancing my **UI/UX design flow** in Figma and building interactive prototypes  
+- 💡 Working on personal projects to strengthen my portfolio at [**mikolas.site**](www.mikolas.site)
+
+---
+
+### 💬 Let's connect!
+If you’re passionate about tech, design, or just want to share ideas — feel free to reach out or check out my work 👇  
+🌐 [Portfolio](www.mikolas.site)  
+💼 [LinkedIn](https://www.linkedin.com/in/mikolas-p-gultom-85b039310/)  
+📧 **mikolasgultom01@gmail.com**
+
+---

@@ -1,9 +1,9 @@
 # 👨‍💻 About Me
 
-Hi, I'm **Mikolas Gultom** — a **Software Engineer & UI/UX Designer** who loves turning ideas into real, interactive experiences.  
+Hi, I'm **Mikolas Gultom** a **Software Engineer & UI/UX Designer** who loves turning ideas into real, interactive experiences.  
 I'm currently studying **Computer Science at Bina Nusantara University**, exploring how technology and design can work together to create meaningful digital products.
 
-✨ I'm passionate about learning new things — from frontend frameworks and backend logic to creating seamless user experiences.  
+✨ I'm passionate about learning new things from frontend frameworks and backend logic to creating seamless user experiences.  
 🚀 Always curious, I keep experimenting with different stacks and projects to improve both my technical and creative side.  
 
 ---

@@ -9,7 +9,6 @@ I'm currently studying **Computer Science at Bina Nusantara University**, explor
 ---
 
 ###  What I'm currently up to:
--  Learning more about **AI integration** and **modern web architecture (React + Laravel)**  
 -  Enhancing my **UI/UX design flow** in Figma and building interactive prototypes  
 -  Working on personal projects to strengthen my portfolio at [**www.mikolas.site**](https://www.mikolas.site/)
 
